@@ -9,8 +9,8 @@ namespace JP_NET.Lab1
         private int _a;
         public int A { get => _a; set => _a = value; }
         public int b;
-        public const char nameConst = 'A';
-        public readonly char nameReadonly = 'A';
+        public const char nameConst = 'B';
+        public readonly char nameReadonly = 'B';
 
         public void MethodOfClassA()
         {
@@ -23,7 +23,7 @@ namespace JP_NET.Lab1
         partial void PartialMethodOfClassA(object x);
         partial void PartialMethodOfClassA(object x)
         {
-            Console.WriteLine("Wydruk z" + " " + "klasy A. {0}", x);
+            Console.WriteLine("Wydruk z nowej wersji 1.0.0.1");
         }
     }
 }
