@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ZtmGdansk.Tests/ZtmGdansk.Tests.csproj" />
+  <Project Path="ZtmGdansk/ZtmGdansk.csproj" />
+</Solution>
