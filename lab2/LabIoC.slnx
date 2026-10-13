@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LabIoC.App/LabIoC.App.csproj" />
+  <Project Path="LabIoC.Core/LabIoC.Core.csproj" />
+  <Project Path="LabIoC.UnitTests/LabIoC.UnitTests.csproj" />
+</Solution>
